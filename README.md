@@ -1,5 +1,12 @@
 ## Hi there 👋
+## Lenguajes de Programación
+## Tecnologías y Frameworks
+# Backend
+Spring
+# Frontend
 
+# Herramientas
+Git Swagger  
 <!--
 **BrendaLeveau1309/BrendaLeveau1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
