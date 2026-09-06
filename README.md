@@ -18,3 +18,5 @@ Soy Brenda, estudiante apasionada por la tecnología y el aprendizaje constante,
 ## Herramientas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+
+[![DevWrapped 3D Stats - @BrendaLeveau1309](https://devwrapped-3d.ai.studio/api/badge/BrendaLeveau1309?style=card)](https://devwrapped-3d.ai.studio/?card=card_ihloy1p3_mtpgpgqy&user=BrendaLeveau1309)
