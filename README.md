@@ -14,7 +14,7 @@ Soy Brenda, estudiante apasionada por la tecnología y el aprendizaje constante,
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Loveable](https://img.shields.io/badge/Lovable-FF69B4.svg?style=for-the-badge&logo=lovable&logoColor=white).
+[![Lovable](https://img.shields.io/badge/Lovable-FF69B4.svg?style=for-the-badge&logo=lovable&logoColor=white)](https://lovable.dev/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 
